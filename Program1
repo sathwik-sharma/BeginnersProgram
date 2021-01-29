@@ -1,4 +1,4 @@
-// C Program to find the size of daa types.
+// C Program to find the size of data types.
 
 #include<stdio.h>
 int main()
